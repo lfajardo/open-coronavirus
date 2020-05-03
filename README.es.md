@@ -136,7 +136,7 @@ En la implementación futura deberá tenerse en cuenta las siguientes cuestiones
 
 #### Derechos de los usuarios en lo relativo a la protección de sus datos de carácter personal:
 
-El RGPD otorga al titular los derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad. Dado que los datos identifican al titular sólo mientras conserve la instalación de la aplicación en su dispositivo, para su sjercicio basta con eliminar la misma. El usuario puede exportar la lista de sus identificadores en texto separado por comas, lo que le posibilita importarlos en otra aplicación de análogas funcionalidades.
+El RGPD otorga al titular los derechos de acceso, rectificación, supresión, limitación al tratamiento, a la oposición a su tratamiento y, en su caso, a no ser objeto de decisiones basadas únicamente en el tratamiento automatizado de sus datos. Dado que los datos identifican al titular sólo mientras conserve la instalación de la aplicación en su dispositivo, para su sjercicio basta con eliminar la misma. El usuario puede exportar la lista de sus identificadores en texto separado por comas, lo que le posibilita importarlos en otra aplicación de análogas funcionalidades.
 
 No obstante puede ponerse en contacto con el Delegado de Protección de Datos de la aplicación en desarrolo en el correo luis.fajardo@fajardolopez.com (puede cifrar el ensaje con GPG/PGP. Id de clave: 5EDEC427 Huella digital: 234C BC21 B774 8D39 833B 9CB2 77EC 086F 5EDE C42).Esta cláusula deberá adaptarse en caso de puesta en producción, para sustituirla o añadir la del DPD del responsable del tratamiento.
 
